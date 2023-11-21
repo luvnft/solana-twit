@@ -51,7 +51,7 @@ const send = async () => {
             ref="textarea"
             rows="1"
             class="text-xl w-full focus:outline-none resize-none mb-3"
-            placeholder="What's happening?"
+            placeholder="Positive vibes only ✨"
             v-model="content"
         ></textarea>
 
